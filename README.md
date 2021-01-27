@@ -38,3 +38,4 @@ If you want to submit a pull request, there're some requirements:
 |`-Dhmcl.version.override=<version>`|Override the version number.|
 |`-Dhmcl.update_source.override=<url>`|Override the update source.|
 |`-Dhmcl.authlibinjector.location=<path>`|Use specified authlib-injector (instead of downloading one).|
+----
